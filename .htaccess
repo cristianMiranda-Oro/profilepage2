@@ -1,0 +1,6 @@
+<FilesMatch "package.json|.env|.env.example|.editorconfig|.styleci.yml|artisan|composer.json|composer.lock|phpunit.xml|webpack.mix.js">
+    Order Allow,Deny
+    Deny from All
+</FilesMatch>
+
+

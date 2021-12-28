@@ -1,0 +1,51 @@
+.cardimage img{
+    width: 80%;
+    display:block;
+    margin:auto;
+    margin-top:10px;
+
+}
+
+.imgconoci img{
+    width: 80%;
+    display:block;
+    margin:auto;
+    margin-top:10px;
+}
+
+footer{
+    background-color: aqua;
+}
+
+.titles-page h3{
+    color: rgb(0,0,107);
+    font-weight: bold;
+}
+hr{
+    background-color: blue;
+    height: 5%;
+}
+.titles-education{
+    font-size: 150%;
+    color: rgb(0,0,107);
+}
+
+.vercertificado{
+    width: 100%;
+    text-align: center;
+}
+
+.titles-university{
+    font-size: 110%;
+}
+
+.titles-proyectos{
+    font-size: 130%;
+}
+
+.resume-cv{
+    font-size: 130%;
+}
+.bg-light{
+    font-size: 130%;
+}
